@@ -1,0 +1,15 @@
+C:\Users\Оксана\Documents\ОБУЧЕНИЕ\GeekBrains.Продакт-менеджер\C#\Gabil\HometaskSeminar6\bin\Debug\net6.0\HometaskSeminar6.exe
+C:\Users\Оксана\Documents\ОБУЧЕНИЕ\GeekBrains.Продакт-менеджер\C#\Gabil\HometaskSeminar6\bin\Debug\net6.0\HometaskSeminar6.deps.json
+C:\Users\Оксана\Documents\ОБУЧЕНИЕ\GeekBrains.Продакт-менеджер\C#\Gabil\HometaskSeminar6\bin\Debug\net6.0\HometaskSeminar6.runtimeconfig.json
+C:\Users\Оксана\Documents\ОБУЧЕНИЕ\GeekBrains.Продакт-менеджер\C#\Gabil\HometaskSeminar6\bin\Debug\net6.0\HometaskSeminar6.dll
+C:\Users\Оксана\Documents\ОБУЧЕНИЕ\GeekBrains.Продакт-менеджер\C#\Gabil\HometaskSeminar6\bin\Debug\net6.0\HometaskSeminar6.pdb
+C:\Users\Оксана\Documents\ОБУЧЕНИЕ\GeekBrains.Продакт-менеджер\C#\Gabil\HometaskSeminar6\obj\Debug\net6.0\HometaskSeminar6.csproj.AssemblyReference.cache
+C:\Users\Оксана\Documents\ОБУЧЕНИЕ\GeekBrains.Продакт-менеджер\C#\Gabil\HometaskSeminar6\obj\Debug\net6.0\HometaskSeminar6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Оксана\Documents\ОБУЧЕНИЕ\GeekBrains.Продакт-менеджер\C#\Gabil\HometaskSeminar6\obj\Debug\net6.0\HometaskSeminar6.AssemblyInfoInputs.cache
+C:\Users\Оксана\Documents\ОБУЧЕНИЕ\GeekBrains.Продакт-менеджер\C#\Gabil\HometaskSeminar6\obj\Debug\net6.0\HometaskSeminar6.AssemblyInfo.cs
+C:\Users\Оксана\Documents\ОБУЧЕНИЕ\GeekBrains.Продакт-менеджер\C#\Gabil\HometaskSeminar6\obj\Debug\net6.0\HometaskSeminar6.csproj.CoreCompileInputs.cache
+C:\Users\Оксана\Documents\ОБУЧЕНИЕ\GeekBrains.Продакт-менеджер\C#\Gabil\HometaskSeminar6\obj\Debug\net6.0\HometaskSeminar6.dll
+C:\Users\Оксана\Documents\ОБУЧЕНИЕ\GeekBrains.Продакт-менеджер\C#\Gabil\HometaskSeminar6\obj\Debug\net6.0\refint\HometaskSeminar6.dll
+C:\Users\Оксана\Documents\ОБУЧЕНИЕ\GeekBrains.Продакт-менеджер\C#\Gabil\HometaskSeminar6\obj\Debug\net6.0\HometaskSeminar6.pdb
+C:\Users\Оксана\Documents\ОБУЧЕНИЕ\GeekBrains.Продакт-менеджер\C#\Gabil\HometaskSeminar6\obj\Debug\net6.0\HometaskSeminar6.genruntimeconfig.cache
+C:\Users\Оксана\Documents\ОБУЧЕНИЕ\GeekBrains.Продакт-менеджер\C#\Gabil\HometaskSeminar6\obj\Debug\net6.0\ref\HometaskSeminar6.dll
